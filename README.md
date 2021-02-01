@@ -1,5 +1,5 @@
 # Your top Movies
-Simple app built by react-native to show your top movies with it's details and its rating.
+Simple app built by react-native to show your top movies with its details and its rating.
 
 # Screenshots 
 <p>
